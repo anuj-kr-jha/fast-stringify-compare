@@ -5,5 +5,6 @@ setInterval(() => {
   // console.log(stat);
   arr.push(stat);
   if (arr.length > 1000) arr.shift();
+  console.clear();
   calculateAverage(arr);
 }, 10);
