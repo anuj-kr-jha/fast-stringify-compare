@@ -10,6 +10,7 @@
   },
   "scripts": {
     "dev": "node --watch src/main.js",
+    "test": "node --watch src/local.js",
     "start": "node app.js"
   },
   "dependencies": {

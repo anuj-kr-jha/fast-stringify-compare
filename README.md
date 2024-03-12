@@ -11,6 +11,7 @@ To run
 ```bash
 npm run dev # with hot reload
 npm run start # without hot reload
+npm run test
 ```
 
 To run in container:
